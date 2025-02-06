@@ -29,8 +29,17 @@
 
 <details>
 
-![image4](https://github.com/SirSeoPro/08-02/blob/main/img/4.png)
-![image5](https://github.com/SirSeoPro/08-02/blob/main/img/5.png)
+#### Скрипт:
+
+```
+ ([[ -f '/var/www/html/index.nginx-debian.html' ]]) && (killall -0 nginx 2> /dev/null)
+
+```
+
+![image2](https://github.com/SirSeoPro/09-01/blob/main/2.png)
+![image3](https://github.com/SirSeoPro/09-01/blob/main/3.png)
+![image4](https://github.com/SirSeoPro/09-01/blob/main/4.png)
+![image5](https://github.com/SirSeoPro/09-01/blob/main/5.png)
 
 </details>
 

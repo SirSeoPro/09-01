@@ -12,7 +12,7 @@
 <details>
 
 ![image1](https://github.com/SirSeoPro/09-01/blob/main/1.png)
-[схема](https://github.com/SirSeoPro/09-01/blob/main/1.pkt)
+[Схема](https://github.com/SirSeoPro/09-01/blob/main/1.pkt)
 
 </details>
 ------

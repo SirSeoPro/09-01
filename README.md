@@ -11,8 +11,8 @@
 
 <details>
 
-![image4](https://github.com/SirSeoPro/08-02/blob/main/img/4.png)
-![image5](https://github.com/SirSeoPro/08-02/blob/main/img/5.png)
+![image1](https://github.com/SirSeoPro/09-01/blob/main/1.png)
+[схема](https://github.com/SirSeoPro/09-01/blob/main/1.pkt)
 
 </details>
 ------
